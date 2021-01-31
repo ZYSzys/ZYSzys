@@ -15,5 +15,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ZYSzys&count_private=true&show_icons=true&theme=material-palenight" />
 </div>
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZYSzys&theme=material-palenight" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZYSzys&layout=compact&theme=material-palenight" />
 </div>
