@@ -1,4 +1,9 @@
-![](https://visitor-badge.glitch.me/badge?page_id=ZYSzys.ZYSzys)
+### About Me
+
+- Frontend Engineer at [ByteDance](https://bytedance.com/) Edu Infra
+- [Node.js](https://github.com/nodejs/node) Core Collaborator
+- [TypeScript](https://github.com/microsoft/TypeScript) Contributor
+- Currently learning TypeScript Internal
 
 <!--
 - 🔭 I’m currently working on ...
@@ -11,9 +16,8 @@
 - ⚡ Fun fact: ...
 -->
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ZYSzys&count_private=true&show_icons=true&theme=material-palenight" />
-</div>
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=ZYSzys.ZYSzys) -->
+
 <div>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZYSzys&layout=compact&theme=material-palenight" />
 </div>
