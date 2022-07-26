@@ -1,9 +1,8 @@
 ### About Me
 
-- Frontend Engineer at [ByteDance](https://bytedance.com/) Edu Infra
-- [Node.js](https://github.com/nodejs/node) Contributor
-- [TypeScript](https://github.com/microsoft/TypeScript) Contributor
-- Currently learning TypeScript Internal
+- Frontend Engineer at [ByteDance](https://bytedance.com/) Global E-Commerce Open Platform
+- Contributed to [Node.js](https://github.com/nodejs/node), [TypeScript](https://github.com/microsoft/TypeScript), [Vite](https://github.com/vitejs/vite)
+- Currently learning Vite & TypeScript Internal
 
 <!--
 - 🔭 I’m currently working on ...
