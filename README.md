@@ -1,8 +1,8 @@
 ### About Me
 
 - Frontend Engineer at [ByteDance](https://bytedance.com/) Global E-Commerce Open Platform
-- Contributed to [Node.js](https://github.com/nodejs/node), [TypeScript](https://github.com/microsoft/TypeScript), [Vite](https://github.com/vitejs/vite)
-- Currently learning Vite & TypeScript Internal
+- Contributed to [Node.js](https://github.com/nodejs/node)
+- Currently learning Next.js
 
 <!--
 - 🔭 I’m currently working on ...
